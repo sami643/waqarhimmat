@@ -1,1 +1,1 @@
-<?php include("./S1paper.html") ?>
+<?php include("./S1 paper.html") ?>
